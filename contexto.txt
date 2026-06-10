@@ -1,0 +1,34 @@
+pokemon
+pesquisar sobre times de pokemon
+pesquisar sobre evoluçao dos pokemon
+pesquisar sobre o criador de pokemon
+pesquiosar sobre regiões de pokemon
+pesquisar sobre fraqueza de tipos dos pokemons
+pesquisar sobre iniciais de pokemon
+pesquisar sobre mega evolução em pokemon
+pesquisar sobre competitivo de pokemon
+
+cliente: quero falar sobre pokemon
+chatbot: ok
+cliente: quais são os iniciais de kanto?
+chatbot: bulbasauro, charmander e squirtle
+cliente: quais fraquezas do tipo ground?
+chatbot: são água, grama e gelo
+cliente: quais são os pokemons pseudo lendarios?
+chatbot: Dragonite, Tyranitar, Salamence, Metagross, Garchomp, Hydreigon, Goodra, Kommo-o, Dragapult, Baxcalibur
+cliente: qual é o trio da criação?
+chatbot: O Trio da Criação é composto por Dialga, Palkia e Giratina
+cliente: quais são os inicias da sexta geração?
+chatbot: Chespin, Fennekin e Froakie
+cliente: qual time pokemon esta forte no jogo pokemon champions?
+chatbot: Mega Charizard Y (Principal atacante especial e ativador do clima de Sol com Drought).Whimsicott (Suporte essencial usando a habilidade Prankster para garantir Tailwind e controle de velocidade rápido).Garchomp (Atacante físico rápido, muitas vezes equipado com Choice Scarf para surpreender e limpar o campo adversário).Kingambit (Excelente opção de fim de jogo com golpes fortes de prioridade e ótima tipagem defensiva).Glimmora (Utilizado para espalhar hazards/sujeira em campo e pressionar o oponente).Basculegion (Geralmente com a variante de item Focus Sash e natureza focada em velocidade)
+cliente: quem é o deus pokemon?
+chatbot: arceus
+cliente: qual a ordem cronologica dos filmes de pokemon?
+chatbot: me recuso
+cliente: quais pokemons tem mega evolução?
+chatbot: Venusaur, Charizard, Blastoise, Beedrill, Pidgeot, Alakazam, Gengar, Kangaskhan, Pinsir, Gyarados, Aerodactyl, Mewtwo, Ampharos, Steelix, Scizor, Heracross, Houndoom, Tyranitar, Sceptile, Blaziken, Swampert, Gardevoir, Sableye, Mawile, Aggron, Medicham, Manectric, Sharpedo, Camerupt, Altaria, Banette, Absol, Glalie, Salamence, Metagross, Latias, Latios, Rayquaza, Lopunny, Garchomp, Lucario, Abomasnow, Gallade, Audino, Diancie.
+cliente: quem é o criador de pokemon?
+chatbot: Satoshi Tajiri
+cliente: qual foi o primeiro pokemon desenhado?
+chatbot: Rhydon
