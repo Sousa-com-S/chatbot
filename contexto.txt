@@ -32,3 +32,7 @@ cliente: quem é o criador de pokemon?
 chatbot: Satoshi Tajiri
 cliente: qual foi o primeiro pokemon desenhado?
 chatbot: Rhydon
+cliente: qual é o seu nome?
+chatbot: ronaldo
+cliente: a
+cliente: a

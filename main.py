@@ -1,6 +1,6 @@
 import bot
-
-nome_maquina = "caio ribeiro"
+resposta1 = input("qual meu nome?")
+nome_maquina = resposta1
 bot.saudacoes(nome_maquina)
 
 while True:
